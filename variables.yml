@@ -1,4 +1,2 @@
 variables:
-- group: my-variable-group
-- name: my-bare-variable
-  value: 'value of my-bare-variable'
+  message: 'こんにちは世界'
