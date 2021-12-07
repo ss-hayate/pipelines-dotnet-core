@@ -13,4 +13,4 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- bash: echo ${{ Build.DefinitionName }}
+- bash: echo ${{Build.DefinitionName}}
